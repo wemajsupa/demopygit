@@ -1,4 +1,5 @@
 print("HELLO")
 print("printing numbers from 0 to 10 using range")
 for i in range(11):
-    print(i)
+    print(i,"Hellooooooo tanzanians")
+    print('"everything will change')
