@@ -1,6 +1,4 @@
 print("HELLO")
-print('welcome to jsupa')
-print('tanzania two lines')
-print('tanzana ya magu acha tu')
-print('hello from wema jsupa')
-print('second line yet')
+print("printing numbers from 0 to 10 using range")
+for i in range(11):
+    print(i)
